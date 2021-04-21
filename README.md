@@ -1,2 +1,5 @@
-# Attention-AD-AE
-Attentive AutoEncoders for visual anomaly detection
+Implementation for the paper Titled "Attentive AutoEncoders for improving Visual Anomaly Detection"
+
+Paper Authors: Ambareesh Ravi, Fakhri Karray
+
+Submitted to IEEE ICAS2021
